@@ -1,7 +1,7 @@
 ### Hi there I'm Nafeu Nasir. 👋
 
-- I’m currently working on automating "educational content generation" with Markdown, NodeJs, Socket.io and Processing. 🔭
-- I’m currently learning how to grow into a tech lead or software architect role. 🌱
+- I’m currently working on generative abstract landscape art with NodeJs and Processing. 🌄
+- I’m currently learning how to grow into a Staff+ Engineer. 🌱
 - You can contact me at [nafeu.nasir@gmail.com](mailto:nafeu.nasir@gmail.com) or reach me on [LinkedIn](https://www.linkedin.com/in/nafeu-nasir-aa679b60/). 📫
 - [Check out my personal website](http://nafeu.com) or my [Medium Posts](https://nafeu.medium.com). 👈
 - Ask me about first person shooters. 💬
