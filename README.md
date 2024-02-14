@@ -1,7 +1,7 @@
 ### Hi there I'm Nafeu Nasir. 👋
 
-- I’m currently working on generative abstract landscape art with NodeJs and Processing. 🌄
-- I’m currently learning how to grow into a Staff+ Engineer. 🌱
+- I’m currently creating generative abstract landscape art with Node.js and Processing (Java). 🌄
+- I’m currently on a path to Staff+ Engineer. 🌱
 - You can contact me at [nafeu.nasir@gmail.com](mailto:nafeu.nasir@gmail.com) or reach me on [LinkedIn](https://www.linkedin.com/in/nafeu-nasir-aa679b60/). 📫
 - [Check out my personal website](http://nafeu.com) or my [Medium Posts](https://nafeu.medium.com). 👈
 - Ask me about first person shooters. 💬
