@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 ### Hi there I'm Nafeu Nasir. 👋
 
 - I’m currently creating generative abstract landscape art with Node.js and Processing (Java). 🌄
