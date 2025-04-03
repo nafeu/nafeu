@@ -2,6 +2,7 @@
 
 ### Hi there I'm Nafeu Nasir. 👋
 
+- I'm currently building a headless DAW to automate music production workflows 🎹
 - I’m currently creating generative abstract landscape art with Node.js and Processing (Java). 🌄
 - I’m currently on a path to Staff+ Engineer. 🌱
 - You can contact me at [nafeu.nasir@gmail.com](mailto:nafeu.nasir@gmail.com) or reach me on [LinkedIn](https://www.linkedin.com/in/nafeu-nasir-aa679b60/). 📫
